@@ -1,6 +1,6 @@
-# lorenzocarnevale.com
+# michellekimgit.github.io
 
-This is my research portfolio as hosted on Github at [michellekimgit.github.io.](http://www.michellekimgit.github.io.) and powered by Jekyll.
+This is my research portfolio as hosted on Github at [michellekimgit.github.io](http://www.michellekimgit.github.io) and powered by Jekyll.
 
 ## Try it out
 ```bash
